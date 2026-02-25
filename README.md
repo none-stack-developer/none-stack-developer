@@ -36,6 +36,7 @@ Python, Flask, OpenAI API, React, MongoDB, Docker
 
 Built and deployed as full production web service
 
+Service Link : https://www.damazoom.com
 ---
 
 # Social Web Project
@@ -57,6 +58,9 @@ Result:
 Tech:
 
 React, Node.js, MongoDB, OAuth, GA4, Fly.io
+
+Service Link : https://www.sunrisetogether.com
+Social Link : https://www.instagram.com/sunrisetogether_official
 
 ---
 
