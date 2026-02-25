@@ -1,81 +1,78 @@
 # Building AI products and testing them with real users
 
-I design, build, and deploy AI-powered web services end-to-end — from idea to production and analytics.
+I design, build, and deploy AI-powered web services end-to-end — from idea → production → analytics.
+
+Focused on applying LLM to real-world problems and validating with actual users.
 
 ---
 
-# Current Project
+# 🚧 Current Project
 
-## VeganScan (private)
+## 🥗 VeganScan (private)
 
 AI-powered vegan menu analyzer
 
-- Users input restaurant menu URLs
-- LLM analyzes vegan suitability
-- Built and deployed production MVP
-- Integrated GA4 and BigQuery to measure real user behavior
+• Users input restaurant menu URLs  
+• LLM analyzes vegan suitability  
+• Built and deployed production MVP  
+• Integrated GA4 and BigQuery for user behavior analytics  
 
-Focus: LLM application, product analytics, real-world validation
+**Focus:** LLM application · Product analytics · Real-world validation  
 
 ---
 
-# AI Projects
+# 🤖 AI Projects
 
-## AI Shopping Cart Generator
+## 🛒 AI Shopping Cart Generator
 
 Natural language → Complete shopping cart
 
-- Users describe their situation and budget
-- AI generates item list
-- Matches real products via Coupang / Naver APIs
-- Calculates total cost automatically
+• Users describe situation and budget  
+• AI generates item list  
+• Matches real products via Coupang / Naver APIs  
+• Calculates total cost automatically  
 
-Tech:
+**Tech:** Python · Flask · OpenAI API · React · MongoDB · Docker  
 
-Python, Flask, OpenAI API, React, MongoDB, Docker
+**Status:** Production deployed  
 
-Built and deployed as full production web service
-
-Service Link : https://www.damazoom.com
+🔗 Service: https://www.damazoom.com  
 
 ---
 
-# Social Web Project
+# 🌅 Social Web Project
 
 ## Sunrise Wish — Social Interactive Web Service
 
 New Year wish sharing platform
 
-- Users create personal "sun pages"
-- Social interaction through encouragement system
-- Visual growth interaction with game element
+• Users create personal "sun pages"  
+• Social encouragement interaction system  
+• Visual growth feedback with game elements  
 
-Result:
+**Result:**
 
-- 50+ real users
-- 140+ active users (GA4)
-- Fully deployed and operated
+• 50+ real users  
+• 140+ active users (GA4)  
+• Fully deployed and operated  
 
-Tech:
+**Tech:** React · Node.js · MongoDB · OAuth · GA4 · Fly.io  
 
-React, Node.js, MongoDB, OAuth, GA4, Fly.io
-
-Service Link : https://www.sunrisetogether.com
-
-Social Link : https://www.instagram.com/sunrisetogether_official
+🔗 Service: https://www.sunrisetogether.com  
+📷 Social: https://www.instagram.com/sunrisetogether_official  
 
 ---
 
-# What I focus on
+# 🎯 What I focus on
 
-- Building real products, not demos
-- Deploying fast and validating with users
-- Measuring behavior and improving based on data
-- Applying AI to real-world problems
+• Building real products — not demos  
+• Deploying fast and validating with users  
+• Measuring behavior and improving with data  
+• Applying AI to real-world use cases  
 
 ---
 
-# Interests
+# 🔬 Interests
 
 LLM applications  
 Product analytics  
@@ -84,6 +81,6 @@ Startup building
 
 ---
 
-# Philosophy
+# 🧠 Philosophy
 
 Build → Deploy → Measure → Learn → Repeat
