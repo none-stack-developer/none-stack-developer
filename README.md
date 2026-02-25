@@ -1,5 +1,7 @@
 # Building AI products and testing them with real users
 
+Solo builder shipping AI products used by real users
+
 I design, build, and deploy AI-powered web services end-to-end — from idea → production → analytics.
 
 Focused on applying LLM to real-world problems and validating with actual users.
